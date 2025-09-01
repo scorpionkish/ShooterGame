@@ -1,0 +1,46 @@
+SPACE SHOOTER GAME - QUICK DEPLOYMENT GUIDE
+============================================
+
+🎮 GAME FILES INCLUDED:
+- index.html (main game page)
+- game.js (game logic)
+- README.md (documentation)
+- deploy.html (detailed deployment guide)
+
+🚀 EASIEST DEPLOYMENT OPTIONS:
+
+1. NETLIFY (Recommended - Free & Fast):
+   - Go to https://netlify.com
+   - Drag and drop this entire folder to deploy
+   - Get your live URL instantly!
+
+2. GITHUB PAGES (Free):
+   - Create a GitHub repository
+   - Upload these files to the repository
+   - Go to Settings → Pages → Deploy from branch
+   - Your game will be at: https://yourusername.github.io/repository-name
+
+3. VERCEL (Free):
+   - Go to https://vercel.com
+   - Connect your GitHub account
+   - Import your repository
+   - Deploy automatically
+
+4. TRADITIONAL HOSTING:
+   - Upload all files to your web server's public_html folder
+   - Access via your domain name
+
+⚠️ IMPORTANT:
+- The game requires a modern browser with WebGL support
+- HTTPS is recommended (most hosting services provide this)
+- Test locally first by opening index.html in a browser
+
+🎯 GAME CONTROLS:
+- WASD or Arrow keys to move
+- Spacebar to shoot
+- Destroy enemies to score points!
+
+📞 NEED HELP?
+Open deploy.html in your browser for detailed instructions.
+
+Enjoy the game! 🚀 
